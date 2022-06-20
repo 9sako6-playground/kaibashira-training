@@ -1,1 +1,31 @@
-# kaibashira-training
+# kaibashira-training :shell: :muscle:
+
+## Environments
+
+VSCode ユーザーには Remote - Containers 用の `.devcontainer` が用意されています。
+
+- GNU Awk
+
+## Questions
+
+- Question 0 - Hello, world!
+  - kaibashira-training へようこそ。手始めに、5行 `hello` を標準出力に出力してください。方法は問いません。
+  - ```bash
+    hello
+    hello
+    hello
+    hello
+    hello
+    ```
+  - "Share your Solutions" ボタンを押して、issue として回答してください。
+  - [![share your solutions](https://img.shields.io/badge/-Share%20your%20Solutions-teal)](https://github.com/9sako6-playground/kaibashira-training/issues/new?labels=solution,0&title=Solve+0&body=%60%60%60bash%0A%23+my+solution%0A%60%60%60)
+
+- [Question 1](/questions/1/README.md)
+
+## Contribution
+
+問題追加大歓迎!
+
+## Inspired by
+
+- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
