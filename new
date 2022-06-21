@@ -1,0 +1,16 @@
+#!/bin/bash
+
+[ "$1" = "" ] && cat <<EOS && exit 1
+Usage: ./new <question-number>
+EOS
+
+path="questions/${1}"
+mkdir "${path}"
+
+cat <<EOS > "${path}/README.md"
+# Question ${1}
+
+![easy](https://img.shields.io/badge/-easy-green)
+
+[![share your solutions](https://img.shields.io/badge/-Share%20your%20Solutions-teal)](https://github.com/9sako6-playground/kaibashira-training/issues/new?labels=solution,${1}&title=Solve+${1}&body=%60%60%60bash%0A%23+my+solution%0A%60%60%60)
+EOS

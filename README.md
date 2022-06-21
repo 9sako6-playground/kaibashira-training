@@ -27,6 +27,11 @@ VSCode ユーザーには Remote - Containers 用の `.devcontainer` が用意�
 
 問題追加大歓迎!
 
+```bash
+# Create new question file
+./new <question-number>
+```
+
 ## Inspired by
 
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
