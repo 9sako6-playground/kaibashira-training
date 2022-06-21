@@ -1,5 +1,7 @@
 # Question 2 - Fizz Buzz
 
+![easy](https://img.shields.io/badge/-easy-green)
+
 1 から 50 までの整数を出力してください。
 ただし、3 の倍数の場合は `Fizz`、5 の倍数の場合は `Buzz`、3 の倍数かつ 5 の倍数の場合は `FizzBuzz` を整数の代わりに出力してください。
 

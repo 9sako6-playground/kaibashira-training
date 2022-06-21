@@ -1,5 +1,7 @@
 # Question 1
 
+![easy](https://img.shields.io/badge/-easy-green)
+
 下記の文から、大文字で始まる単語だけを抽出して表示してください。
 
 ```
