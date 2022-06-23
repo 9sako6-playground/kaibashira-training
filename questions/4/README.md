@@ -2,7 +2,7 @@
 
 ![easy](https://img.shields.io/badge/-easy-green)
 
-下記の [blame](./blame) ファイルのうち、最古のコミットのコミットハッシュを出力してください。
+下記の [blame](./blame) ファイルのうち、最新のコミットのコミットハッシュを出力してください。
 
 ```bash
 $ cat questions/4/blame | your answer
